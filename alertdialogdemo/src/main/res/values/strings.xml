@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ALertDialogDemo</string>
+
+    <!-- 主界面布局所需要的字符串资源-->
+    <string name="action_settings">Settings</string>
+    <string name="simple_dialog">基本对话框</string>
+    <string name="simple_list_dialog">简单列表对话框</string>
+    <string name="single_choice_dialog">单选项列表对话框</string>
+    <string name="multi_choice_dialog">多选项列表对话框</string>
+    <string name="custom_adapter_dialog">自定义Adapter对话框</string>
+    <string name="custom_view_dialog">自定义View对话框</string>
+
+    <!-- 对话框所需要的字符串资源-->
+    <string name="dialog_message">这里是内容区域</string>
+    <string name="postive_button">确定</string>
+    <string name="negative_button">取消</string>
+
+    <!-- 对话框提示信息字符串资源-->
+    <string name="toast_postive">你点击了确定按钮</string>
+    <string name="toast_negative">你点击了取消按钮</string>
+
+    <string name="text">自定义Adapter的内容</string>
+
+
+
+</resources>

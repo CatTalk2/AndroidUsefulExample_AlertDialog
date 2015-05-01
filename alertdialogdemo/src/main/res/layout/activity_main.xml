@@ -1,0 +1,73 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <Button
+        android:id="@+id/btn_simple_dialog"
+        android:text="@string/simple_dialog"
+        android:textColor="#ffffff"
+        android:textSize="18sp"
+        android:background="#449F1D"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/btn_simple_list_dialog"
+        android:text="@string/simple_list_dialog"
+        android:textColor="#ffffff"
+        android:textSize="18sp"
+        android:background="#449F1D"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/btn_single_choice_dialog"
+        android:text="@string/single_choice_dialog"
+        android:textColor="#ffffff"
+        android:textSize="18sp"
+        android:background="#449F1D"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/btn_multi_choice_dialog"
+        android:text="@string/multi_choice_dialog"
+        android:textColor="#ffffff"
+        android:textSize="18sp"
+        android:background="#449F1D"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/btn_custom_adapter_dialog"
+        android:text="@string/custom_adapter_dialog"
+        android:textColor="#ffffff"
+        android:textSize="18sp"
+        android:background="#449F1D"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/btn_custom_view_dialog"
+        android:text="@string/custom_view_dialog"
+        android:textColor="#ffffff"
+        android:textSize="18sp"
+        android:background="#449F1D"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+</LinearLayout>
